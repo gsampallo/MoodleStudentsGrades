@@ -45,9 +45,9 @@ class StudentGrades:
                 if line_count == 0:
                     line_count += 1
                 else:
-                    print(f'\t{row[0]},{row[1]} {row[2]}')
+                    print(f'\t{row[1]},{row[0]} {row[2]}')
 
-                    self.ws.write(line_count,0,row[0]+","+row[1])
+                    self.ws.write(line_count,0,row[1]+","+row[0])
                     self.ws.write(line_count,1,row[2])
                     col_grade = 2
                     for entry in self.entries:
