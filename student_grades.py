@@ -87,7 +87,7 @@ class StudentGrades:
 
         self.create_xls()
         self.create_columns_grades()
-        self.list_of_students('alumnos.csv')
+        self.list_of_students('students.csv')
 
         self.save_xls()
 
