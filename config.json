@@ -2,6 +2,40 @@
     "list_estudents":"students.csv",
     "input":"planillas",
     "output":"xls",
+    "teoria": [
+        { 
+            "name":"TEMA 1",
+            "examen":"Info-Cuestionario teorico Tema 1-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 2",
+            "examen":"Info-Cuestionario teorico Tema 2-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 5",
+            "examen":"Info-Cuestionario teorico Tema 5-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 6",
+            "examen":"Info-Cuestionario teorico Tema 6-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 7",
+            "examen":"Info-Cuestionario teorico Tema 7-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 8",
+            "examen":"Info-Cuestionario teorico Tema 8-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 9",
+            "examen":"Info-Cuestionario teorico Tema 9-calificaciones.csv"
+        },
+        { 
+            "name":"TEMA 10",
+            "examen":"Info-Cuestionario teorico Tema 10-calificaciones.csv"
+        }
+    ],
     "columnas": [
         {   "name":"EVP 1",
             "examen":"Info-Evp1-Sistemas numericos-calificaciones.csv",
