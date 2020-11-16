@@ -1,2 +1,5 @@
 *.csv
 *.xls
+*.zip
+demo.py
+

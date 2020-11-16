@@ -1,4 +1,68 @@
 {
+    "list_estudents":"students.csv",
     "input":"planillas",
-    "output":"xls"
+    "output":"xls",
+    "columnas": [
+        {   "name":"EVP 1",
+            "examen":"Info-Evp1-Sistemas numericos-calificaciones.csv",
+            "recuperatorio":"Info-Recuperatorio EVP1-calificaciones.csv",
+            "integradora":0
+        },
+        {
+            "name":"EVP 2",
+            "examen": "Info-Evp2 - Estructura Secuencial-calificaciones.csv",
+            "recuperatorio":"Info-Recuperatorio EVP2-calificaciones.csv",
+            "integradora":0
+        },
+        {
+            "name":"EVP 3",
+            "examen":"Info-EVP3 - decision simple-calificaciones.csv",
+            "recuperatorio":"Info-Recuperatorio EVP3-calificaciones.csv",
+            "integradora":0
+        }, 
+        {
+            "name":"EVP 4",
+            "examen": "Info-EVP4 - decision doble y multiple-calificaciones.csv",
+            "recuperatorio": "Info-Recuperatorio EVP4-calificaciones.csv",
+            "integradora":0
+        },
+        {
+            "name":"EVP 5",
+            "examen": "Info-Recuperatorio EVP5-calificaciones.csv",
+            "recuperatorio":"Info-Recuperatorio EVP5-calificaciones.csv",
+            "integradora":0
+        },
+        {
+            "name":"EVP 6",
+            "examen": "Info-EVP6 - Arreglos-calificaciones.csv",
+            "recuperatorio": "Info-Recuperatorio EVP6-calificaciones.csv",
+            "integradora":0
+        },
+        
+        {
+            "name":"Integradora Depiaggio",
+            "examen": "Info-Evaluacion integradora 1 - Prof Depiaggio-calificaciones.csv",
+            "recuperatorio": "Info-Recuperatorio Integrador Prof Depiaggio-calificaciones.csv",
+            "integradora":1
+        },
+        {
+            "name":"Integradora Rodriguez",
+            "examen": "Info-Evaluacion integradora 1 - Prof Rodriguez-calificaciones.csv",
+            "recuperatorio": "Info-Recuperatorio Integrador Prof Rodriguez-calificaciones.csv",
+            "integradora":1
+        },
+        {
+            "name":"Integradora Salazar",
+            "examen": "Info-Evaluacion integradora 1 - Prof Salazar-calificaciones.csv",
+            "recuperatorio": "Info-Recuperatorio Evaluacion integradora  - Prof. Salazar-calificaciones.csv",
+            "integradora":1
+        },
+        
+        {
+            "name":"Integradora Sampallo",
+            "examen": "Info-Evaluacion integradora 1 - Prof Zampallo-calificaciones.csv",
+            "recuperatorio": "Info-Recuperatorio Integrador Prof Sampallo-calificaciones.csv",
+            "integradora":1
+        }
+    ]
 }
